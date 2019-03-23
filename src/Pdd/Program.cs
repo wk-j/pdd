@@ -8,7 +8,7 @@ namespace Pdd
         //  - Remove console write line from source code
         static void Main(string[] args)
         {
-            // @todo Remove this line
+            // @todo #2 Remove this line
             Console.WriteLine("Hello World!");
         }
     }
