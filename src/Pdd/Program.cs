@@ -6,7 +6,6 @@ namespace Pdd
     {
         static void Main(string[] args)
         {
-            // @todo #2 Remove this line
             Console.WriteLine("Hello World!");
         }
     }
