@@ -1,5 +1,5 @@
 {
-    "omnisharp.path": "latest",
+    // "omnisharp.path": "latest",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
