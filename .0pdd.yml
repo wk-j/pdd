@@ -1,0 +1,13 @@
+alerts:
+  suppress:
+    - on-found-puzzle
+    - on-lost-puzzle
+    - on-scope
+  github:
+    - wk-j
+format:
+  - short-title
+  - title-length=100
+tags:
+  - pdd
+  - bug
